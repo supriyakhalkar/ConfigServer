@@ -3,7 +3,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/dipurane/batch1.git
+          uri: https://github.com/supriyakhalkar/ConfigServer.git
 server:
   port: 5050
   
